@@ -1,5 +1,4 @@
 
-Aqui está o README atualizado com essas infos:
 
 ```md
 <h1 align="center">
