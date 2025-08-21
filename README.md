@@ -1,4 +1,3 @@
-Beleza! Vou incluir sua idade e data de nascimento no “Sobre Mim” também, deixando tudo bem completo e organizado.
 
 Aqui está o README atualizado com essas infos:
 
@@ -42,5 +41,3 @@ Aqui está o README atualizado com essas infos:
   <img src="https://github.com/victoriaa-lo/victoriaa-lo/blob/main/snake-dark.svg" alt="Snake animation">
 </div>
 ```
-
-Quer mais alguma coisa? Estou aqui!
